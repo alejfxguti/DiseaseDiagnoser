@@ -38,7 +38,7 @@ This project is an interactive web application that predicts possible disease di
 
 ## Demo
 
-[Provide a link to a live demo of the project, if available]
+[Disease Diagnoser Demo](https://www.loom.com/share/ac68aabc750a4f0c8e6c783f028161bb?sid=84245340-76a8-4e1a-9c3f-50de4815688d)
 
 ## Roadmap
 
