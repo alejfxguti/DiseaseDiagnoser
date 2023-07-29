@@ -1,4 +1,4 @@
-# DiseaseDiagnoser
+# Disease Diagnoser
 
 This project is an interactive web application that predicts possible disease diagnoses based on user-input symptoms. It utilizes machine learning models trained on a dataset of symptoms and corresponding diseases.
 
@@ -6,27 +6,35 @@ This project is an interactive web application that predicts possible disease di
 
 - Users can input up to 4 symptoms and receive possible diagnoses.
 - The application displays the percentage chance of each diagnosis according to the trained model.
-- The project includes a frontend web page for user interaction and a backend server for processing symptoms and providing predictions.
+- It includes a frontend web page for user interaction and a backend server written using Flask to process symptoms and provide predictions.
 
 ## Technologies Used
 
-- Frontend: HTML, CSS, JavaScript
-- Backend: [Choose your preferred backend technology]
-- Machine Learning: Scikit-learn
-- Data Analysis: Pandas, NumPy
-- Deployment: GitHub Pages
+**Frontend:** HTML, CSS, JavaScript
 
-## Setup and Usage
+**Backend:** Flask (Python Web Framework)
 
-1. Clone the repository:`git clone https://github.com/your-username/disease-diagnosis.git`
+**Machine Learning:** Scikit-learn
 
-2. [Set up and configure your chosen backend technology as mentioned in the project steps]
+**Data Analysis:** Pandas, NumPy
 
-3. Open `index.html` in a web browser.
+## Local Deployment
 
-4. Enter up to 4 symptoms in the input fields and click the submit button.
+1. Clone the repository: `git clone https://github.com/your-username/disease-diagnoser.git`
 
-5. The application will send an AJAX request to the backend server, process the symptoms, and display the diagnosis results with percentage chances on the page.
+2. Navigate to the project directory: `cd disease-diagnoser`
+
+3. Install the required Python packages using pip: `pip install flask pandas scikit-learn`
+
+4. Run the Flask server: `python app.py`
+
+5. Open your local environment: `http://localhost:5000/` or `http://127.0.0.1:5000/`
+
+6. Click `Learn more` to see what symptoms and diseases the model used to train
+
+7. Enter up to 4 symptoms in the input fields and click the submit button.
+
+8. The application will send an AJAX request to the backend server, process the symptoms, and display the diagnosis results with percentage chances on the page.
 
 ## Demo
 
@@ -34,7 +42,8 @@ This project is an interactive web application that predicts possible disease di
 
 ## Roadmap
 
-- [Describe planned improvements, additional features, or future enhancements]
+- Add functionality to display the percentage chance of each diagnosis according to the trained model.
+- More to come
 
 ## Contributing
 
@@ -52,11 +61,11 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 ## License
 
-[Specify the project's license, e.g., MIT License]
+MIT License
 
 ## Acknowledgements
 
-- [Mention any acknowledgements, data sources, or references used in the project]
+- Kaggle dataset used for training the machine learning models: Disease Prediction using Machine Learning[https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning/code]
 
 
 
