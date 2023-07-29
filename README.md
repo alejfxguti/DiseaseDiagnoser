@@ -65,7 +65,8 @@ MIT License
 
 ## Acknowledgements
 
-- Kaggle dataset used for training the machine learning models: [Disease Prediction using Machine Learning(https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning/code)]
+- Kaggle dataset used for training the machine learning models: [Disease Prediction using Machine Learning](https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning/code)
+- Inspiration on machine learning model [Disease Prediction Using Machine Learning](https://www.geeksforgeeks.org/disease-prediction-using-machine-learning/)
 
 
 
