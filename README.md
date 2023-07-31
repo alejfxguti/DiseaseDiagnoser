@@ -1,6 +1,6 @@
 # Disease Diagnoser
 
-This project is an interactive web application that predicts possible disease diagnoses based on user-input symptoms. It utilizes machine learning models trained on a dataset of symptoms and corresponding diseases.
+This project is an interactive flask application that predicts possible disease diagnoses based on user-input symptoms. It utilizes machine learning models trained on a dataset of symptoms and corresponding diseases.
 
 ## Features
 
