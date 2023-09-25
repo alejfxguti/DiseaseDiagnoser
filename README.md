@@ -18,6 +18,10 @@ This project is an interactive flask application that predicts possible disease 
 
 **Data Analysis:** Pandas, NumPy
 
+## Demo
+
+[Disease Diagnoser Demo](https://www.loom.com/share/ac68aabc750a4f0c8e6c783f028161bb?sid=84245340-76a8-4e1a-9c3f-50de4815688d)
+
 ## Local Deployment
 
 1. Clone the repository: `git clone https://github.com/your-username/disease-diagnoser.git`
@@ -35,10 +39,6 @@ This project is an interactive flask application that predicts possible disease 
 7. Enter up to 4 symptoms in the input fields and click the submit button.
 
 8. The application will send an AJAX request to the backend server, process the symptoms, and display the diagnosis results with percentage chances on the page.
-
-## Demo
-
-[Disease Diagnoser Demo](https://www.loom.com/share/ac68aabc750a4f0c8e6c783f028161bb?sid=84245340-76a8-4e1a-9c3f-50de4815688d)
 
 ## Roadmap
 
