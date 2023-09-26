@@ -20,7 +20,9 @@ This project is an interactive flask application that predicts possible disease 
 
 ## Demo
 
-[Disease Diagnoser Demo](https://www.loom.com/share/ac68aabc750a4f0c8e6c783f028161bb?sid=84245340-76a8-4e1a-9c3f-50de4815688d)
+<a href="https://www.loom.com/share/ac68aabc750a4f0c8e6c783f028161bb">
+  <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ac68aabc750a4f0c8e6c783f028161bb-with-play.gif">
+</a>
 
 ## Local Deployment
 
